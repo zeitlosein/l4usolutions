@@ -1,0 +1,16 @@
+{
+  "name": "l4usolutions",
+  "version": "1.0.0",
+  "description": "L4U Solutions Website",
+  "main": "index.js",
+  "homepage": "https://zeitlosein.github.io/l4usolutions",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikolas Smith",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
